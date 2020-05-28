@@ -12,4 +12,3 @@ npm install
 ### 3. Compile e execute (com hot-reload)
 ```
 npm run serve
-
